@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* Hide scrollbars globally */
+* {
+  scrollbar-width: none !important;
+  -ms-overflow-style: none !important;
+}
+*::-webkit-scrollbar {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+/* Pixel-styled crisp box shadows and borders */
+.pixel-box {
+  box-shadow: 2px 2px 0px 0px rgba(12, 10, 9, 0.9);
+}
+
+.pixel-box-sm {
+  box-shadow: 1px 1px 0px 0px rgba(12, 10, 9, 0.8);
+}

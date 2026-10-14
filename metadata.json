@@ -1,0 +1,6 @@
+{
+  "name": "AetherHUD - SAO-Style Resource Nexus",
+  "description": "Desktop floating HUD resource aggregator with SAO-style cascading radial navigation, multi-source ingestion, Jina Reader extraction, and AI 2+1 tier taxonomy classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
